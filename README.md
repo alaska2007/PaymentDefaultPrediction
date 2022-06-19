@@ -4,10 +4,10 @@ Final Project Kelompok 8 (INFINITY) - Rakamin Batch 21
 FINAL PROJECT KELOMPOK 8 (INFINITY)
 Nama Kelompok :
 
-Alaska Napitupulu
-Rafsanjani Lestari Negara
-Ukhti Aprillia Vanny
-Ike Setyawati
+1. Alaska Napitupulu, 
+2. Rafsanjani Lestari Negara, 
+3. Ukhti Aprillia Vanny, 
+4. Ike Setyawati, 
 Dataset : https://www.kaggle.com/reverie5/av-janata-hack-payment-default-prediction
 
 Folder Stage 0 :
